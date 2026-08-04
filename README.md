@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben EGGSYSMAN Namı Diğer SepulturA</h1>
+<h1 align="center">Merhaba 👋, Ben Gbots'un Geliştiricisiyim.</h1>
 <h3 align="center">Arada bir Github'a uğrayan bir kullanıcı.</h3>
 
 
