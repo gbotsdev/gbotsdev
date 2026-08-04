@@ -6,9 +6,9 @@
 
 - 🔭 Websitem ile uğraşıyorum: [GBot](https://www.gbots.app/)
 
-- 🌱 Şu anda öğrenmeye çalıştıklarım: **Typescript, React**
+- 🌱 Şu anda öğrenmeye çalıştıklarım: **Vibe Coding** 
 
-- 👯 Son zamanlarda popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://eggsysman.github.io/wordle-tr/)
+- 👯 Bir zamanlar popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://eggsysman.github.io/wordle-tr/)
 
 - 🤝İşinizi kolaylaştırabileceğini düşündüğüm bir NPM Modülü [Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)
 
