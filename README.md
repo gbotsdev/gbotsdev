@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eggsysman" alt="eggsysman" /></a> </p>
-
-- 🔭 Websitem ile uğraşıyorum. Kendisi GBot blog sitesi teknoloji, bilim, oyunlar, dizi/film, yazılım ve çok daha fazlası hakkında bilgi sahibi olabileceğiniz bir blog websitesi: [GBot](https://www.gbots.app/)
+- 🔭 Websitem ile uğraşıyorum: [GBot](https://www.gbots.app/)
 
 - 🌱 Şu anda öğrenmeye çalıştıklarım: **Typescript, React**
 
