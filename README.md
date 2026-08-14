@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
 
-- 🔭 Websitem ve yeni bir uygulama ile uğraşıyorum: [GBot](https://www.gbots.app/)
+- 🔭 Websitem ve yeni bir uygulama ile uğraşıyorum: [GBots Studio](https://www.gbots.app/)
 
 - 🌱 Şu anda öğrenmeye çalıştıklarım: **Vibe Coding** 
 
