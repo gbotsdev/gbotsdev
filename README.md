@@ -8,7 +8,7 @@
 
 - 🌱 Şu anda öğrenmeye çalıştıklarım: **Vibe Coding** 
 
-- 👯 Bir zamanlar popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://eggsysman.github.io/wordle-tr/)
+- 👯 Bir zamanlar popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://gbotsdev.github.io/wordle-tr/)
 
 - 🤝İşinizi kolaylaştırabileceğini düşündüğüm bir NPM Modülü [Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)
 
