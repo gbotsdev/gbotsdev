@@ -1,19 +1,70 @@
-<h1 align="center">Merhaba 👋, Ben Gbots Geliştiricisiyim.</h1>
-<h3 align="center">Arada bir Github'a uğrayan bir kullanıcı.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=00C897&center=true&vCenter=true&width=500&lines=Merhaba+👋%2C+Ben+Gbots+Geliştiricisiyim;Yapay+Zeka+%26+Mobil+Uygulamalar;Mutfakta+Devrim%3A+Çek+%26+Pişir+🍳;Vibe+Coding+%26+Modern+Teknolojiler" alt="Typing SVG" />
 
+  <p align="center">
+    <strong>Gbots Studio</strong> çatısı altında yapay zeka gücünü mobil deneyimlerle buluşturan bağımsız bir geliştiriciyim. 🚀
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profile%20views&color=0e75b6&style=flat" alt="eggsysman" /> </p>
+  <p align="center">
+    <a href="https://gbots.app"><img src="https://img.shields.io/badge/Website-gbots.app-00C897?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://play.google.com/store/apps/details?id=com.gbots.cekpisir"><img src="https://img.shields.io/badge/Google_Play-Çek_%26_Pişir-414141?style=flat-square&logo=googleplay&logoColor=34A853" alt="Google Play" /></a>
+    <a href="mailto:contact@gbots.app"><img src="https://img.shields.io/badge/Email-contact@gbots.app-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=eggsysman&label=Profil+Görüntülenme&color=00C897&style=flat-square" alt="Profil Ziyaretçisi" />
+  </p>
+</div>
 
-- 🔭 Websitem ve yeni bir uygulama ile uğraşıyorum: [GBots Studio](https://www.gbots.app/)
+---
 
-- 🌱 Şu anda öğrenmeye çalıştıklarım: **Vibe Coding** 
+### 🚀 Neler Yapıyorum?
 
-- 👯 Bir zamanlar popülerleşen Wordle uygulamasının Türkçe web sitesi [Wordle-TR](https://gbotsdev.github.io/wordle-tr/)
+- 🍳 **[Çek & Pişir (Snap & Cook AI)](https://play.google.com/store/apps/details?id=com.gbots.cekpisir)** — Malzemelerin fotoğrafını çekerek Gemini AI ile saniyeler içinde tarif ve kalori analizi üreten akıllı mobil asistan.
+- 🌐 **[GBots Studio](https://www.gbots.app/)** — Modern arayüzlü web platformumuz ve mobil portföyümüz.
+- 🌱 **Öğrenme & İlgi Alanları:** Vibe Coding, LLM & Vision Modelleri, Flutter & Dart Mimarileri.
+- 🎮 **[Wordle-TR](https://gbotsdev.github.io/wordle-tr/)** — Popüler kelime bulmaca oyununun Türkçe web versiyonu.
+- 📦 **[Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)** — Geliştiricilerin işini kolaylaştıran açık kaynak NPM modülü.
 
-- 🤝İşinizi kolaylaştırabileceğini düşündüğüm bir NPM Modülü [Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)
+---
 
-<p align="left">
-</p>
+### 🛠️ Teknolojiler & Yetkinlikler
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
+
+**📱 Mobil & Yapay Zeka:**  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/Unity_Ads-222C37?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Ads" />
+
+<br />
+
+**💻 Web & Backend:**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+<br />
+
+**☁️ Veritabanı & Servisler:**  
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eggsysman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0F12&title_color=00C897&icon_color=00C897&text_color=94A3B8" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsysman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0F12&title_color=00C897&text_color=94A3B8" alt="Top Languages" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 <i>"Yapay zeka ile kodlamak, geleceği bugünden inşa etmektir."</i> • <strong>Gbots Studio © 2026</strong></sub>
+</div>
