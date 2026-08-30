@@ -54,7 +54,7 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eggsysman&theme=tokyonight&hide_border=true&background=0D0F12&ring=00C897&fire=00C897&currStreakLabel=00C897&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=gbotsdev&theme=tokyonight&hide_border=true&background=0D0F12&ring=00C897&fire=00C897&currStreakLabel=00C897&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak Stats" />
 </div>
 
 ---
