@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Merhaba, Ben Gbots Geliştiricisiyim</h1>
+  <h1>👋 Merhaba, Ben Gbots Developer</h1>
   <p><strong>Yapay Zeka Destekli Mobil Deneyimler & Modern Çözümler 🚀</strong></p>
 
   <p>
