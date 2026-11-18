@@ -20,7 +20,6 @@
 - 🌐 **[GBots Studio](https://www.gbots.app/)** — Modern mobil uygulama ve yapay zeka projelerimizin yer aldığı resmi web platformumuz.
 - 🌱 **Şu Anda Odaklandıklarım:** Vibe Coding, LLM & Görsel İşleme Modelleri, Flutter & Dart Mimarileri.
 - 🎮 **[Wordle-TR](https://gbotsdev.github.io/wordle-tr/)** — Popüler kelime bulmaca oyununun Türkçe web versiyonu.
-- 📦 **[Facilitator-Package](https://github.com/EGGSYSMAN/facilitator-package)** — Geliştiricilerin işini kolaylaştıran açık kaynak NPM modülü.
 
 ---
 
